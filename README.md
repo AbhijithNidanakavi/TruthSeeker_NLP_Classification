@@ -38,8 +38,6 @@ Let the truth set you free !
 ## Authors
 
 - [@Abhijith Nidanakavi](https://github.com/AbhijithNidanakavi)
-- abhijithnidanakavi.com (https://www.abhijithnidanakavi.com/)
-
 
 ## Demo on Streamlit
 
